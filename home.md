@@ -6,7 +6,7 @@ title: HALLYM UNIVERSITY
 <br/>
 
 
-# Research Experience
+# 한림대학교
 
 ### Electronics and Telecommunications Research Institute
 #### Senior Researcher, 2014 to Present
