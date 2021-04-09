@@ -8,7 +8,7 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 <br/>
 
 ## About me
-I'M SO HUNGEY
+I'M SO HUNGEY ISG
 밥 먹어야지
 
 ## Contact
