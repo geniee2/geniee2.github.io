@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: Departmend of English Language and Literature
 ---
 
 
