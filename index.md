@@ -8,8 +8,11 @@ cover-img: /assets/img/clouds.jpg
 <br/>
 
 ## About me
-I'M SO HUNGEY ISG
-밥 먹어야지
+이름 : 이유진
+나이 : 25세
+학력 : 한림대학교 4학년 재학
+취미 : 노래에 심취하기
+특기 : 꾸미는 것 
 
 ## Contact
 
