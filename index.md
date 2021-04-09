@@ -1,8 +1,8 @@
 ---
 layout: page
-title:YOUJIN
+title: U GENIE
 subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/clouds.jpg
 ---
 
 <br/>
