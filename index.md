@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cloud Researcher
+title:YOUJIN
 subtitle: Artificial Intelligence Research Laboratory, ETRI
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
@@ -8,8 +8,8 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 <br/>
 
 ## About me
-
-나는 너무 *배고프다*
+I'M SO HUNGEY
+밥 먹어야지
 
 ## Contact
 
