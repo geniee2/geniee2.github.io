@@ -9,7 +9,7 @@ title: HALLYM UNIVERSITY
 # 한림대학교
 [한림대학교 알아보기](https://www.hallym.ac.kr)
 	
-![hl.jpeg](file:///Users/ugenie/Downloads/html5up-massively/images/hl.jpeg)
+![한림대](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/hl.jpeg)
 
 img: /assets/img/clouds.jpg
 
