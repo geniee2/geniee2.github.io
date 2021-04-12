@@ -9,7 +9,7 @@ title: HALLYM UNIVERSITY
 # 한림대학교
 [한림대학교 알아보기](https://www.hallym.ac.kr)
 	
-/assets/img/hl.jpeg
+img: /assets/img/hl.jpeg
 
 ### Electronics and Telecommunications Research Institute
 s
