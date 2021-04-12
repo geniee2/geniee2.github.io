@@ -7,6 +7,7 @@ title: HALLYM UNIVERSITY
 
 
 # 한림대학교
+<a href="#" class="image main"><img src="images/hl.jpeg" alt="" /></a>
 
 ### Electronics and Telecommunications Research Institute
 #### Senior Researcher, 2014 to Present
