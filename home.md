@@ -7,7 +7,7 @@ title: HALLYM UNIVERSITY
 
 
 # 한림대학교
-[한림대학교 알아보기](https://www.hallym.ac.kr)
+[한림대학교 알아보기-사이트](https://www.hallym.ac.kr)
 	
 ![한림대](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/hl.jpeg)
 
@@ -16,19 +16,21 @@ title: HALLYM UNIVERSITY
 
 [한림대학교 소개 영상](https://youtu.be/kPF0b71r7GU)
 
+
+
 # 전공 소개
 
 ![전공](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/mj.jpg)
 
 
-인문, 과학, 의학, 미디어 등 여러 교육을 기반으로 하는 다양한 전공들이 있습니다. 4차 산업혁명 시대에 따라 디지털, 데이터에 관한 전공들도 많이 생겨났습니다. 본인의 진로, 관심에 따른 전공 선택 또는 복수 전공 선택을 하면 됩니다.
+
+인문, 과학, 의학, 미디어 등 여러 교육을 기반으로 하는 다양한 전공들이 있습니다. 4차 산업혁명 시대에 따라 디지털, 데이터에 관한 전공들도 많이 생겨났습니다. 본인의 진로, 관심에 따른 전공 선택 또는 복수 전공 선택을 하면 됩니다. 
 
 
 
+ # 일송기념도서관
 
-# 일송기념도서관
-
-
+![도서관](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/dg.jpg)
 
 
 
@@ -41,7 +43,7 @@ title: HALLYM UNIVERSITY
 
 
 
-### 한림대학교 찾아오시는 길
+[한림대학교 찾아오시는 길](https://www.google.co.kr/maps/place/한림대학교/@37.8863021,127.7359628,17z/data=!3m1!4b1!4m5!3m4!1s0x3562e5e939c43ac7:0x2419c3aa2130905c!8m2!3d37.8862979!4d127.7381568?hl=ko)
 ![지도](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/스크린샷%202021-04-13%20오전%202.36.33.png)
 
 
