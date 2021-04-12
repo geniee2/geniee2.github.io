@@ -4,7 +4,7 @@ title: Departmend of English Language and Literature
 ---
 
 
-[영어영문](https://dell.hallym.ac.kr/dell/index.do)
+[영어영문학과](https://dell.hallym.ac.kr/dell/index.do)
 
 
 
