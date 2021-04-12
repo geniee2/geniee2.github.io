@@ -11,7 +11,7 @@ title: HALLYM UNIVERSITY
 	
 ![한림대](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/hl.jpeg)
 
-img: /assets/img/clouds.jpg
+
 
 ### Electronics and Telecommunications Research Institute
 s
