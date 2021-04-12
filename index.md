@@ -1,7 +1,7 @@
 ---
 layout: page
 title: U GENIE
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+subtitle: Welcome To My Playground
 cover-img: /assets/img/clouds.jpg
 ---
 
