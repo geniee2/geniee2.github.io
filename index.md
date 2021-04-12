@@ -8,7 +8,7 @@ cover-img: /assets/img/clouds.jpg
 <br/>
 
 ## About me
-이름 : 이유진
+이름 : 엔시티 영상이나 보고 싶다
 
 나이 : 25세
 
