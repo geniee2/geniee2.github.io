@@ -20,8 +20,8 @@ title: HALLYM UNIVERSITY
 
 
 
-### Electronics and Telecommunications Research Institute
-s
+### 한림대학교 찾아오시는 길
+
 
 <br/>
 
