@@ -50,7 +50,7 @@ title: Departmend of English Language and Literature
 구글 엔그램 뷰어는 아주 옛날부터 출간된 수많은 저서들 속에 특정 단어가 얼마나 쓰이고 있는지 연도별로, 단어별로 한눈에 파악할 수 있도록 도와주는 아주 획기적인 기능이다. 쉽게 말해 개인이 수집할 수 없는 수많은 데이터, 즉 빅데이터 속 특정 단어의 사용 빈도를 한눈에, 그래프로 확인할 수 있도록 한 것이다.
 
 궁금한 영어 단어들의 빈도수를 알아보기 좋은 사이트이다.
-[BOOKS NGRAM VIEWER]https://books.google.com/ngrams/graphcontent=English+language&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1%3B%2CEnglish%20language%3B%2Cc0
+[BOOKS NGRAM VIEWER]https://books.google.com/ngrams/graph?content=English+language&year_start=1800&year_end=2019&corpus=26&smoothing=3&direct_url=t1%3B%2CEnglish%20language%3B%2Cc0
 
 # English
 
