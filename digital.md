@@ -49,7 +49,7 @@ ADOBE 프로그램
 ![java](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/jv.jpg)
 
 - JavaScript와 html의 차이 
-- 
+
 ![저버](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/et.jpg)
 
 
