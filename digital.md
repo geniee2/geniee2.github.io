@@ -14,8 +14,7 @@ title: DIGITAL ARTS AND HUMANITIES
 [디지털인문예술 알아보기](https://sites.google.com/view/dah-hallym/about?authuser=0)
 
 # 코딩
-![코딩]
-https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/스크린샷%202021-04-13%20오전%2011.10.29.png 
+![코딩](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/scc.jpg)
 
 
 
@@ -47,10 +46,10 @@ ADOBE 프로그램
 - JAVASCRIPT 활용해보기 -
 
 1. JavaScript로 문자열 입력하기 : JavaScript는 script를 사용한다. 또한 어떠한 값을 넣을 때 무조건 세미콜론(;)을 넣어야 값이 나온다.
-/자바 사진 넣기/
+![java](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/jv.jpg)
 
 - JavaScript와 html의 차이 -
-/자바스크립트 결과 사진/
+![rufrhk](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/et.jpg)
 html도 hello world를 입력이 가능하다. 하지만, 내가 입력하는 값만 나온다는 것이 차이점이다. 내가 어떠한 값을 더하거나 빼기를 원한다. '10+1 = 11' 에 대한 값을 원해서 입력을 해도 내가 입력한 공식만 입력이 된다. => html과 다르게 자바스크립트는 문자열 그대로가 아닌 덧셈에 대한 값을 보여준다.
 
 # JAVASCRIPT
