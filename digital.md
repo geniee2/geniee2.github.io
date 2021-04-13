@@ -7,18 +7,22 @@ title: DIGITAL ARTS AND HUMANITIES
 
 # 디지털인문예술
 
-![디인예] /사진/
+![디인예](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/dh.png)
 
 디지털인문예술 공통 기초, 인문데이터시각화 트랙, 디지털 내러티브 트랙, 현장실습연계 영역, 문화예술디자인 트랙, 지역문화융합콘텐츠 트랙, 언어공학 트랙의 수업들을 통해 디지털 기술 활용을 늘리고 이를 실전에 사용하여 아이디어를 표현한다.
 
 [디지털인문예술 알아보기](https://sites.google.com/view/dah-hallym/about?authuser=0)
 
 # 코딩
-![코딩] /사진/
+![코딩]
+https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/스크린샷%202021-04-13%20오전%2011.10.29.png 
+
+
+
 
 프로그래밍과 같은 뜻으로 널리 사용된다. 하지만 좀더 구체적으로 살펴보면, 코딩은 명령을 컴퓨터가 이해할 수 있는 C언어, 자바, 파이선 등의 프로그래밍 언어로 입력하는 과정을 뜻하고 프로그래밍은 프로그래밍 언어를 사용해 프로그램을 만드는 일을 뜻한다. 코딩을 통해 지금 보이는 이러한 웹페이도 만들기가 가능하다. 디지털인문예술 전공에서도 물론 이러한 코딩도 배울 수 있다.
 	
-[코딩](https://www.youtube.com/watch?v=1ttLx9MbrCI&t=3s)
+[생활코딩 배워보기](https://www.youtube.com/watch?v=1ttLx9MbrCI&t=3s)
 
 
 # LISTS
