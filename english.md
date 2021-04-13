@@ -34,7 +34,7 @@ title: Departmend of English Language and Literature
 
 영어영문학과를 전공으로 선택했다면 배워야 할 수업들이 있다. 1학기, 2학기로 나뉜 도움이 되는 수업들이 가득하다. 더 많은 수업은 홈페이지를 통해 알아보도록 하자.
 
-[교과과정 알아보기]https://dell.hallym.ac.kr/dell/intro/curriculum.do
+[교과과정 알아보기](https://dell.hallym.ac.kr/dell/intro/curriculum.do)
 
 
 # 동아리
