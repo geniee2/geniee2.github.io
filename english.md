@@ -5,6 +5,7 @@ title: Departmend of English Language and Literature
 
 
 [영어영문학과](https://dell.hallym.ac.kr/dell/index.do)
+
 ![영문과](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/wd.jpg)
 
 # D.E.L.L
