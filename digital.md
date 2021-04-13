@@ -18,7 +18,6 @@ title: DIGITAL ARTS AND HUMANITIES
 
 
 
-
 프로그래밍과 같은 뜻으로 널리 사용된다. 하지만 좀더 구체적으로 살펴보면, 코딩은 명령을 컴퓨터가 이해할 수 있는 C언어, 자바, 파이선 등의 프로그래밍 언어로 입력하는 과정을 뜻하고 프로그래밍은 프로그래밍 언어를 사용해 프로그램을 만드는 일을 뜻한다. 코딩을 통해 지금 보이는 이러한 웹페이도 만들기가 가능하다. 디지털인문예술 전공에서도 물론 이러한 코딩도 배울 수 있다.
 	
 [생활코딩 배워보기](https://www.youtube.com/watch?v=1ttLx9MbrCI&t=3s)
@@ -46,10 +45,13 @@ ADOBE 프로그램
 - JAVASCRIPT 활용해보기 -
 
 1. JavaScript로 문자열 입력하기 : JavaScript는 script를 사용한다. 또한 어떠한 값을 넣을 때 무조건 세미콜론(;)을 넣어야 값이 나온다.
+2. 
 ![java](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/jv.jpg)
 
 - JavaScript와 html의 차이 -
-![rufrhk](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/et.jpg)
+- 
+![저버](https://raw.githubusercontent.com/geniee2/geniee2.github.io/master/assets/img/et.jpg)
+
 html도 hello world를 입력이 가능하다. 하지만, 내가 입력하는 값만 나온다는 것이 차이점이다. 내가 어떠한 값을 더하거나 빼기를 원한다. '10+1 = 11' 에 대한 값을 원해서 입력을 해도 내가 입력한 공식만 입력이 된다. => html과 다르게 자바스크립트는 문자열 그대로가 아닌 덧셈에 대한 값을 보여준다.
 
 # JAVASCRIPT
